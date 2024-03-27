@@ -1,0 +1,5 @@
+step 1 : terraform fmt
+step 2 : terraform init
+step 3 : terraform validate
+step 4 : terraform plan
+step 5 : terraform apply
